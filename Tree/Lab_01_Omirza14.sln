@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{C423F94B-7019-4AD8-9ED7-97505AB358CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C423F94B-7019-4AD8-9ED7-97505AB358CB}.Debug|x86.ActiveCfg = Debug|x86
+		{C423F94B-7019-4AD8-9ED7-97505AB358CB}.Debug|x86.Build.0 = Debug|x86
+		{C423F94B-7019-4AD8-9ED7-97505AB358CB}.Release|x86.ActiveCfg = Release|x86
+		{C423F94B-7019-4AD8-9ED7-97505AB358CB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

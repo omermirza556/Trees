@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C423F94B-7019-4AD8-9ED7-97505AB358CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tree/Starter.cs">
+    <Files>
+      <File FileName="Tree/Starter.cs" Line="53" Column="13" />
+      <File FileName="Tree/TwoThreeTree.cs" Line="129" Column="29" />
+      <File FileName="Tree/TwoThreeNode.cs" Line="79" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tree PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

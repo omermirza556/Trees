@@ -1,0 +1,6 @@
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/bin/Debug/Tree.exe
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/bin/Debug/Tree.pdb
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/obj/x86/Debug/Tree.csproj.CoreCompileInputs.cache
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/obj/x86/Debug/Tree.exe
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/obj/x86/Debug/Tree.pdb
+/Users/omer/Dropbox/VisualStudio/Tree/Tree/obj/x86/Debug/Tree.csprojResolveAssemblyReference.cache
